@@ -1,5 +1,0 @@
-CC(C(=O)C(=O)O)c1c[nH]c2ccccc12>0.5027(MNXR191844)>O=C(O)C(=O)Cc1c[nH]c2ccccc12.C[SAH]|O=C(O)C(=O)Cc1c[nH]c2ccccc12>1.2045(MNXR113398)>O=C(O)CCC(=O)C(=O)O.N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	1.7071994776815496	True
-CC(C(=O)C(=O)O)c1c[nH]c2ccccc12>0.5027(MNXR191844)>O=C(O)C(=O)Cc1c[nH]c2ccccc12.C[SAH]|O=C(O)C(=O)Cc1c[nH]c2ccccc12>1.4644(MNXR109104)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	1.9670579048261305	True
-CC(C(=O)C(=O)O)c1c[nH]c2ccccc12>0.5027(MNXR191844)>O=C(O)C(=O)Cc1c[nH]c2ccccc12.C[SAH]|O=C(O)C(=O)Cc1c[nH]c2ccccc12>1.9096(MNXR151698)>CC(=O)C(=O)O.N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	2.4123541098501016	True
-CC(C(=O)C(=O)O)c1c[nH]c2ccccc12>0.5027(MNXR191844)>O=C(O)C(=O)Cc1c[nH]c2ccccc12.C[SAH]|O=C(O)C(=O)Cc1c[nH]c2ccccc12>2.2355(70123)>CC[C@H](C)C(=O)C(=O)O.N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	2.738224221431373	True
-CC(C(=O)C(=O)O)c1c[nH]c2ccccc12>0.5027(MNXR191844)>O=C(O)C(=O)Cc1c[nH]c2ccccc12.C[SAH]|O=C(O)C(=O)Cc1c[nH]c2ccccc12>1.6887(MNXR109104)>N[C@H](Cc1c[nH]c2ccccc12)C(=O)O|N[C@H](Cc1c[nH]c2ccccc12)C(=O)O>0.9892(MNXR109104)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	3.180621539935207	True

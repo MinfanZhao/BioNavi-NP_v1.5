@@ -1,1 +1,0 @@
-O=C(O)Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1>3.4189(MNXR190480)>Oc1cc(I)c(O)c(I)c1.O=C(O)Cc1cc(I)c(O)c(I)c1|Oc1cc(I)c(O)c(I)c1>2.8876(MNXR149159)>Oc1ccc(I)c(O)c1|O=C(O)Cc1cc(I)c(O)c(I)c1>0.9313(R12884)>O=C(O)Cc1ccc(O)c(I)c1|Oc1ccc(I)c(O)c1>2.4057(MNXR176464)>O=C(O)c1ccc(O)cc1|O=C(O)Cc1ccc(O)c(I)c1>2.7300(RXN-22755)>O=C(O)C(=O)Cc1ccc(O)cc1	12.373578324039595	True

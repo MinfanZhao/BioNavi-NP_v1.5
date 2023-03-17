@@ -1,5 +1,0 @@
-Cc1cc(O)cc2oc(CC(=O)CC(=O)O)cc(=O)c12>0.5772(MNXR116491)>Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1|Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1>0.7853(MNXR193210)>O=C(O)CC(=O)[CoA]	1.3624831344585668	True
-Cc1cc(O)cc2oc(CC(=O)CC(=O)O)cc(=O)c12>0.5772(MNXR116491)>Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1|Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1>1.1716(MNXR193210)>O=C(O)CC(=O)[CoA]	1.7488164026461117	True
-Cc1cc(O)cc2oc(CC(=O)CC(=O)O)cc(=O)c12>0.5772(MNXR116491)>Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1|Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1>2.0030(MNXR194090)>O=C(O)CC(=O)[CoA].CC(=O)[CoA]	2.5802275285059166	True
-Cc1cc(O)cc2oc(CC(=O)CC(=O)O)cc(=O)c12>0.5772(MNXR116491)>Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1|Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1>2.3524(MNXR121936)>O=C(O)CC(=O)[CoA].CC(=O)[CoA]	2.929635398844949	True
-Cc1cc(O)cc2oc(CC(=O)CC(=O)O)cc(=O)c12>0.5772(MNXR116491)>Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1|Cc1cc(O)cc(O)c1C(=O)Cc1cc(O)cc(=O)o1>2.7931(MNXR193210)>O=C(O)CC(=O)[CoA]	3.3703262911460663	True

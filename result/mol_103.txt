@@ -1,5 +1,0 @@
-[C-]#[N+]/C=C/c1ccc(O)cc1>0.5058(MNXR192526)>[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O|[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O>0.7982(MNXR181790)>N[C@@H](Cc1ccc(O)cc1)C(=O)O.O=C(CO)[C@H](O)[C@H](O)COP(=O)(O)O	1.3039931294955711	True
-[C-]#[N+]/C=C/c1ccc(O)cc1>0.5058(MNXR192526)>[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O|[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O>1.7298(MNXR181790)>N[C@@H](Cc1ccc(O)cc1)C(=O)O	2.235626730970436	True
-[C-]#[N+]/C=C/c1ccc(O)cc1>0.5058(MNXR192526)>[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O|[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O>2.2239(MNXR125906)>O=C(O)C(=O)Cc1ccc(O)cc1	2.729672758184796	True
-[C-]#[N+]/C=C/c1ccc(O)cc1>0.5058(MNXR192526)>[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O|[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O>2.5170(MNXR181713)>N[C@@H](Cc1ccc(O)cc1)C(=O)O.O=C(O)C(=O)Cc1ccc(O)cc1	3.022746512323765	True
-[C-]#[N+]/C=C/c1ccc(O)cc1>0.5058(MNXR192526)>[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O|[C-]#[N+][C@@H](Cc1ccc(O)cc1)C(=O)O>2.9058(MNXR125906)>C[C@H](N)C(=O)O.O=C(O)C(=O)Cc1ccc(O)cc1	3.411602702655321	True

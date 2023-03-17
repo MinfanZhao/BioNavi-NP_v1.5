@@ -1,5 +1,0 @@
-N=C(Cc1c[nH]c2c(Cl)cccc12)C(=O)O>0.5601(MNXR112979)>N[C@@H](Cc1c[nH]c2c(Cl)cccc12)C(=O)O|N[C@@H](Cc1c[nH]c2c(Cl)cccc12)C(=O)O>0.7992(MNXR191545)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	1.3592959430884437	True
-N=C(Cc1c[nH]c2c(Cl)cccc12)C(=O)O>2.9784(MNXR191545)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	2.978350188453298	True
-N=C(Cc1c[nH]c2c(Cl)cccc12)C(=O)O>1.8985(MNXR112979)>NC(Cc1c[nH]c2c(Cl)cccc12)C(=O)O|NC(Cc1c[nH]c2c(Cl)cccc12)C(=O)O>1.3853(MNXR191545)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	3.283832444617631	True
-N=C(Cc1c[nH]c2c(Cl)cccc12)C(=O)O>1.8985(MNXR112979)>NC(Cc1c[nH]c2c(Cl)cccc12)C(=O)O|NC(Cc1c[nH]c2c(Cl)cccc12)C(=O)O>0.7277(MNXR112979)>N[C@@H](Cc1c[nH]c2c(Cl)cccc12)C(=O)O|N[C@@H](Cc1c[nH]c2c(Cl)cccc12)C(=O)O>0.7992(MNXR191545)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	3.4254190588566584	True
-N=C(Cc1c[nH]c2c(Cl)cccc12)C(=O)O>3.1622(MNXR192259)>N=C(Cc1c[nH]c2ccccc12)C(=O)O|N=C(Cc1c[nH]c2ccccc12)C(=O)O>0.8695(MNXR191545)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	4.031648081499912	True

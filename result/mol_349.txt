@@ -1,5 +1,0 @@
-O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12>0.6924(MNXR141216)>O=C1c2ccc(O)cc2OC(O)C1c1ccc(O)cc1|O=C1c2ccc(O)cc2OC(O)C1c1ccc(O)cc1>0.7402(MNXR191498)>O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)ccc21|O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)ccc21>0.7841(MNXR117770)>O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O	2.216719110581759	True
-O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12>1.2081(MNXR141216)>O=C1c2ccc(O)cc2O[C@@H](O)[C@@H]1c1ccc(O)cc1|O=C1c2ccc(O)cc2O[C@@H](O)[C@@H]1c1ccc(O)cc1>0.8360(MNXR191498)>O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)ccc21|O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)ccc21>0.7841(MNXR117770)>O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O	2.828163331149166	True
-O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12>3.4264(MNXR117770)>O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O	3.4264237555626336	True
-O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12>0.6924(MNXR141216)>O=C1c2ccc(O)cc2OC(O)C1c1ccc(O)cc1|O=C1c2ccc(O)cc2OC(O)C1c1ccc(O)cc1>3.3941(MNXR117770)>O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O	4.086489127783552	True
-O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12>1.2081(MNXR141216)>O=C1c2ccc(O)cc2O[C@@H](O)[C@@H]1c1ccc(O)cc1|O=C1c2ccc(O)cc2O[C@@H](O)[C@@H]1c1ccc(O)cc1>2.9008(MNXR117770)>O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O	4.108883338504271	True

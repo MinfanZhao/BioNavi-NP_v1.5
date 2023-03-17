@@ -1,5 +1,0 @@
-O=C(O)C(=O)Cc1ccc(O)c(O)c1>1.1152(MNXR112411)>N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O|N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O>0.9327(MNXR169765)>N[C@@H](Cc1ccc(O)cc1)C(=O)O	2.047877878602138	True
-O=C(O)C(=O)Cc1ccc(O)c(O)c1>1.1158(MNXR107300)>N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O.O=C(O)CCC(=O)C(=O)O|N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O>0.9327(MNXR169765)>N[C@@H](Cc1ccc(O)cc1)C(=O)O	2.0484724911874697	True
-O=C(O)C(=O)Cc1ccc(O)c(O)c1>1.6049(70971)>N[C@H](Cc1ccc(O)c(O)c1)C(=O)O|N[C@H](Cc1ccc(O)c(O)c1)C(=O)O>1.0780(MNXR169765)>N[C@@H](Cc1ccc(O)cc1)C(=O)O	2.682957979616094	True
-O=C(O)C(=O)Cc1ccc(O)c(O)c1>1.9922(MNXR112689)>N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O.CC(=O)C(=O)O|N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O>0.9327(MNXR169765)>N[C@@H](Cc1ccc(O)cc1)C(=O)O	2.92491562327609	True
-O=C(O)C(=O)Cc1ccc(O)c(O)c1>2.2160(MNXR109475)>O=C(O)C(=O)C[C@]1(C(=O)O)C=C[C@@H](O)C=C1|O=C(O)C(=O)C[C@]1(C(=O)O)C=C[C@@H](O)C=C1>0.8506(MNXR109669)>O=C=O.O=C(O)C(=O)Cc1ccccc1	3.066653719052101	True

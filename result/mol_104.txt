@@ -1,5 +1,0 @@
-[C-]#[N+]c1cc2cc(O)c(O)cc2oc1=O>0.5115(MNXR192488)>[C-]#[N+]c1cc2ccc(O)cc2oc1=O|[C-]#[N+]c1cc2ccc(O)cc2oc1=O>3.0097(RXN-22657)>Nc1cc2ccc(O)cc2oc1=O|Nc1cc2ccc(O)cc2oc1=O>3.3919(MNXR149159)>N[C@@H](Cc1ccc(O)cc1)C(=O)O	6.9131395004311	True
-[C-]#[N+]c1cc2cc(O)c(O)cc2oc1=O>3.1914(R12884)>[C-]#[N+]/C(=C/c1ccc(O)cc1)C(=O)O|[C-]#[N+]/C(=C/c1ccc(O)cc1)C(=O)O>4.1871(MNXR149159)>N[C@@H](Cc1ccc(O)cc1)C(=O)O	7.378523646440675	True
-[C-]#[N+]c1cc2cc(O)c(O)cc2oc1=O>3.4652(MNXR170768)>Nc1cc2cc(O)c(O)cc2oc1=O|Nc1cc2cc(O)c(O)cc2oc1=O>2.6123(RXN-22657)>O=c1cc(O)c2cc(O)c(O)cc2o1|O=c1cc(O)c2cc(O)c(O)cc2o1>1.3327(MNXR194097)>O=C(O)CC(=O)[CoA]	7.410206150700949	True
-[C-]#[N+]c1cc2cc(O)c(O)cc2oc1=O>3.1914(R12884)>[C-]#[N+]/C(=C/c1ccc(O)cc1)C(=O)O|[C-]#[N+]/C(=C/c1ccc(O)cc1)C(=O)O>4.3307(MNXR149159)>O=C(O)C(=O)Cc1ccc(O)cc1	7.522057287925476	True
-[C-]#[N+]c1cc2cc(O)c(O)cc2oc1=O>3.4652(MNXR170768)>Nc1cc2cc(O)c(O)cc2oc1=O|Nc1cc2cc(O)c(O)cc2oc1=O>2.6123(RXN-22657)>O=c1cc(O)c2cc(O)c(O)cc2o1|O=c1cc(O)c2cc(O)c(O)cc2o1>1.5896(MNXR176464)>CC(=O)[CoA].O=C(O)CC(=O)[CoA]	7.667059646550449	True
