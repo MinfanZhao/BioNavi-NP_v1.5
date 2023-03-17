@@ -1,0 +1,27 @@
+target_mol: 'O=C1CCCC2C3CC(CN12)C1CCCCN1C3'
+gpu: 0
+expansion_topk: 10
+route_topk: 10
+iterations: 100
+
+use_value_fn: True
+value_fn_model_path: './retro_star/saved_models/best_epoch_final_4.pt'
+do_rerank: True
+rxn_fps_path: './dataset/rxn_data/rxnid_fp.pkl'
+
+fp_dim: 2048
+beam_size: 20
+# For single building block, set building_block_path to a list of only one molecule
+# building_block_path = ["Nc1ccccc1C(=O)O"]
+buliding_block_path: './dataset/building_block/building_block.csv'
+
+one_step_model_path: [
+  './precursor_prediction/checkpoints/retrosyn_step_40000.pt',
+  './precursor_prediction/checkpoints/retrosyn_step_50000.pt',
+  './precursor_prediction/checkpoints/retrosyn_step_60000.pt',
+  './precursor_prediction/checkpoints/retrosyn_step_30000.pt'
+]
+
+viz: False
+viz_dir: 'viz/'
+

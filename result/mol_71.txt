@@ -1,0 +1,5 @@
+O=C(O)[C@H](O)Cc1c[nH]c2ccccc12>0.6071(MNXR147471)>O=C(O)C(=O)Cc1c[nH]c2ccccc12|O=C(O)C(=O)Cc1c[nH]c2ccccc12>1.1561(MNXR103990)>O=C(O)CCC(=O)C(=O)O.N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	1.763146459152638	True
+O=C(O)[C@H](O)Cc1c[nH]c2ccccc12>0.6071(MNXR147471)>O=C(O)C(=O)Cc1c[nH]c2ccccc12|O=C(O)C(=O)Cc1c[nH]c2ccccc12>1.3953(MNXR103990)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	2.0023379030743373	True
+O=C(O)[C@H](O)Cc1c[nH]c2ccccc12>0.6071(MNXR147471)>O=C(O)C(=O)Cc1c[nH]c2ccccc12|O=C(O)C(=O)Cc1c[nH]c2ccccc12>1.7959(MNXR103990)>CC(=O)C(=O)O.N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	2.40298426944331	True
+O=C(O)[C@H](O)Cc1c[nH]c2ccccc12>2.4555(MNXR103990)>N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	2.455454686560584	True
+O=C(O)[C@H](O)Cc1c[nH]c2ccccc12>0.6071(MNXR147471)>O=C(O)C(=O)Cc1c[nH]c2ccccc12|O=C(O)C(=O)Cc1c[nH]c2ccccc12>2.0782(MNXR103990)>CC[C@H](C)C(=O)C(=O)O.N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	2.685250856726374	True
