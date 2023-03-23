@@ -12,7 +12,6 @@ def molstar(target_mol, target_mol_id, starting_mols, expand_fn, value_fn, reran
 
     i = -1
     succ_values = []
-    searched = []
     if not mol_tree.succ:
         for i in range(iterations):
             #if not (i + 1) % 10:
@@ -42,7 +41,7 @@ def molstar(target_mol, target_mol_id, starting_mols, expand_fn, value_fn, reran
             if result is not None and (len(result['scores']) > 0):
                 reactants = result['reactants']
                 scores = result['scores']
-                result = rerank_fn(reactants, target_mol, scores) ### No improvements for True!
+                result = rerank_fn(reactants, target_mol, scores)
                 costs = result['scores']
                 if 'templates' in result.keys():
                     templates = result['templates']

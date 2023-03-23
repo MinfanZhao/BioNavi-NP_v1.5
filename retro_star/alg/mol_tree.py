@@ -38,11 +38,8 @@ class MolTree:
 
     def _add_mol_node(self, mol, parent):
         # mol = cano_smi(mol)
-        if len(self.known_mols) == 0:
-            is_known = False
-        else:
-            is_known = (mol in self.known_mols) or (mol.replace("Cl", "").replace("Cr", "").replace("Cu", "").replace("Co", "").replace("Ca", "").upper().count("C") < 4)
-            #is_known = (mol in self.known_mols)
+        is_known = (mol in self.known_mols) or (mol.replace("Cl", "").replace("Cr", "").replace("Cu", "").replace("Co", "").replace("Ca", "").upper().count("C") < 4)
+        #is_known = (mol in self.known_mols)
 
         t = time.time()
         init_value = self.value_fn(mol)
