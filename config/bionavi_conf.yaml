@@ -1,4 +1,4 @@
-target_mol: 'O=C1CCCC2C3CC(CN12)C1CCCCN1C3'
+target_mol: 'O=C(O)CCCC(=O)O'
 gpu: 0
 expansion_topk: 10
 route_topk: 10
@@ -16,10 +16,10 @@ beam_size: 20
 buliding_block_path: './dataset/building_block/building_block.csv'
 
 one_step_model_path: [
-  './precursor_prediction/checkpoints/retrosyn_step_40000.pt',
-  './precursor_prediction/checkpoints/retrosyn_step_50000.pt',
-  './precursor_prediction/checkpoints/retrosyn_step_60000.pt',
-  './precursor_prediction/checkpoints/retrosyn_step_30000.pt'
+  './precursor_prediction/checkpoints/model_step_40000.pt',
+  './precursor_prediction/checkpoints/model_step_50000.pt',
+  './precursor_prediction/checkpoints/model_step_60000.pt',
+  './precursor_prediction/checkpoints/model_step_90000.pt'
 ]
 
 viz: False

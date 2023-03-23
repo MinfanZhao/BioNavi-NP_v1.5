@@ -21,7 +21,7 @@ You can also train your own models with following steps:
 #### preprocess the data
 
 ```python
-onmt_build_vocab -config vocab.yaml -n_sample -1
+onmt_build_vocab -config config/single_vocab.yaml -n_sample -1
 ```
 
 #### train the model
